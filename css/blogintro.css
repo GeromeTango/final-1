@@ -1,0 +1,157 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.body
+{
+    background-image: url('https://vod-progressive.akamaized.net/exp=1663391066~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F2148%2F8%2F210741559%2F722729312.mp4~hmac=6373e0b001d153aecc4395aa655d1f4076995211e191991347f5fc5c9cb91bd7/vimeo-prod-skyfire-std-us/01/2148/8/210741559/722729312.mp4');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+}
+.stickynav {
+    background-color: white;
+    font-size: 40px;
+    text-align: center;
+    overflow: hidden;
+    position: fixed;
+    top: 0%;
+    width: 100%;
+}
+.header {
+    height: 140px;
+    padding-top: 40px;
+}
+.logo {
+    float: left;
+    padding-left: 30px;
+}
+.ul {
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 30px 50px;
+    display: flex;
+    list-style: none;
+}
+.li {
+    display: inline-block;
+    margin-left: 15px;
+    padding: 4px 10px;
+    border-radius: 10px;
+}
+.ul a {
+    color: black;
+}
+.navbox3 a {
+    color: black;
+}
+.navbox1 {
+    float: left;
+}
+.navbox2 {
+    float: left;
+}
+.navbox3 {
+    float: right;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 30px;
+}
+.cart {
+    float: right;
+}
+.logopicture {
+    clear: both;
+    text-align: center;
+}
+.section1 {
+    height: 1500px;
+}
+.area1 {
+    padding-top: 150px;
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+.box1 {
+    padding-top: 150px;
+}
+.headtext1 {
+    font-size: 40px;
+    font-style: italic;
+}
+.footer {
+    height: 250px;
+    padding: 30px;
+    clear: both;
+}
+.footerbox1 {
+    font-size: 28px;
+    font-style: italic;
+    padding-right: 50px;
+    float: left;
+}
+.footerbox2 {
+    font-size: 28px;
+    font-style: italic;
+    padding-right: 50px;
+    float: left;
+}
+.footerbox1 a {
+    color: black;
+}
+.footerbox2 a {
+    color: black;
+}
+.footerbox1 {
+    color: grey;
+}
+.footerbox2 {
+    color: grey;
+}
+.icon {
+    padding: 40px;
+    font-size: 110px;
+    margin-left: 20px;
+    float: left;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+    width: 110px;
+    height: 110px;
+    text-align: center;
+}
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+    width: 110px;
+    height: 110px;
+    text-align: center;
+}
+.fa-instagram {
+    background: #125688;
+    color: white;
+    width: 110px;
+    height: 110px;
+    text-align: center;
+}
+.address {
+    float: right;
+    font-size: 35px;
+    font-style: italic;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+.phone {
+    float: right;
+    font-size: 35px;
+    font-style: italic;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+.footerlogo {
+    float: left;
+    padding-left: 50px;
+}
